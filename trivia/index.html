@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+            // TODO: Add code to check answers to questions
+            document.addEventListener('DOMContentLoaded', function() {
+                const correct = document.querySelector(".correct")
+
+                correct.addEventListener("click", function(event) {
+                correct.style.backgroundColor = "#A2FF86";
+                document.querySelector('.feedback1').innerHTML = 'Correct!';
+                });
+
+                const incorrect1 = document.querySelector(".incorrect1")
+                const incorrect2 = document.querySelector(".incorrect2")
+
+                incorrect1.addEventListener("click", function(event) {
+                incorrect1.style.backgroundColor = "#FE0000";
+                document.querySelector('.feedback1').innerHTML = 'Incorrect!';
+                });
+
+                incorrect2.addEventListener("click", function(event) {
+                incorrect2.style.backgroundColor = "#FE0000";
+                document.querySelector('.feedback1').innerHTML = 'Incorrect!';
+                });
+            });
+
+        </script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <!-- TODO: Add multiple choice question here -->
+                <h3>What is the length of the Observable Universe:</h3>
+                <button class="correct">93.016 Billion Light Years</button>
+                <button class="incorrect1">46.508 Billion Light Years</button>
+                <button class="incorrect2">105.7 Thousand Light Years</button>
+                <p class="feedback1"></p>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <!-- TODO: Add free response question here -->
+                <h3>What are blackholes? </h3>
+                <form>
+                    <input type="text" placeholder="Answer... " name="answer" size="1250">
+                    <input type="submit" name="answer">
+                </form>
+            </div>
+        </div>
+    </body>
+</html>
