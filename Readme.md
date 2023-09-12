@@ -10,6 +10,17 @@ CS50 is a challenging and engaging course that covers a wide range of computer s
 
 ## Assignments
 
+### Week 1: C
+- [Population]()
+- [Hello (C)]()
+- [Mario (C)]()
+- [Cash (C)]()
+
+### Week 2: Arrays
+- [Scrabble]()
+- [Readability (C)]()
+- [Bulbs](/bulbs)
+
 ### Week 3: Algorithms
 - [Sort](/sort)
 - [Plurality](/plurality)
@@ -66,4 +77,4 @@ We want to express our gratitude to the CS50 team at Harvard University for prov
 ### Certificate
 
 ![CS50 Certificate](/Certificate/CS50x.png)
-![Verified Certificate](Certificate/Verified CS50x.png)
+![Verified Certificate](/Certificate/Verified%20CS50x.png)
