@@ -2,7 +2,7 @@
 
 ![CS50 Logo](https://members-csforall.imgix.net/members/logos/cs50-black.PNG)
 
-Welcome to the CS50 repository, where you'll find a comprehensive collection of assignments and the final project for Harvard University's renowned "CS50: Introduction to Computer Science" course. This repository is made public with the intention of providing a learning resource for those interested in computer science and programming, while adhering to the academic honesty policies outlined by Harvard University. Please review the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/#policy) before proceeding.
+Welcome to the CS50 repository, where you'll find a comprehensive collection of assignments and the final project for Harvard University's renowned "CS50: Introduction to Computer Science" course. This repository is made public with the intention of providing a learning resource for those interested in computer science and programming while adhering to the academic honesty policies outlined by Harvard University. Please review the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/#policy) before proceeding.
 
 ## About CS50
 
@@ -77,4 +77,4 @@ We want to express our gratitude to the CS50 team at Harvard University for prov
 ### Certificate
 
 ![CS50 Certificate](https://certificates.cs50.io/28d39417-4825-4989-a5c3-3235496e31be.png?size=letter)
-![Verified Certificate](/Certificate/Verified%20CS50x.png)
+![Verified Certificate](/Certificate/images/Verified%20CS50x.png)
