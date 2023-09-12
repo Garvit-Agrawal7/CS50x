@@ -77,4 +77,3 @@ We want to express our gratitude to the CS50 team at Harvard University for prov
 ### Certificate
 
 ![CS50 Certificate](https://certificates.cs50.io/28d39417-4825-4989-a5c3-3235496e31be.png?size=letter)
-![Verified Certificate](/Certificate/images/Verified%20CS50x.png)
